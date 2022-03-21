@@ -9,5 +9,9 @@ There are two data:
 
 US_category_id.json
 
-US_youtube_trending_data.csv
+To retrieve the categories for a specific video
+
+US_youtube_trending_data.csv 
+
+Columns: video id, video title, channel title, publish time, trending date, tags, views counts, likes and dislikes, description, and comment count.
 
